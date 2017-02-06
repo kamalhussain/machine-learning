@@ -10,8 +10,6 @@
 * [A brief introduction to Neutral Networks](http://www.dkriesel.com/en/science/neural_networks)
 * [Deep learning](http://www.deeplearningbook.org/)
 * [A course in machine learning](http://ciml.info/)
-* 
-
 
 ### Tools/Libraries
 * [Tensorflow](https://www.tensorflow.org/)
