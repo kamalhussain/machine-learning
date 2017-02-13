@@ -21,7 +21,7 @@
 * [Oxford Advanced course on deep learning](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 ### Mathematics
-* [Highlights of Calculus][https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318]
+* [Highlights of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318)
 
 ### Misc
 * Machine learning [cheatsheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet) from Microsoft
