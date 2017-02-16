@@ -23,6 +23,9 @@
 ### Mathematics
 * [Highlights of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318)
 
+### Datasets
+* [Public Datasets](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.qr0lw24tt)
+
 ### Misc
 * Machine learning [cheatsheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet) from Microsoft
 * [Tensorflow playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.89974&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
